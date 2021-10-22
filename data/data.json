@@ -1,0 +1,54 @@
+{
+    "albums": [{
+        "bandName": "Limp Bizkit",
+        "shortName": "three_dollar",
+        "albumName" : "Three Dollar Bill, Y'all",
+        "released": "July 1, 1997",
+        "summary" : "Three Dollar Bill, Y'all (stylized as Three Dollar Bill, Y'all$) is the debut studio album by American rap rock band Limp Bizkit, released on July 1, 1997 by Flip and Interscope Records. It established the band's trademark sound with the singles 'Counterfeit', which was influenced by hip hop and heavy metal, and 'Faith', a cover of the song of the same name by George Michael. Limp Bizkit's rearrangement of the song incorporated heavier guitar playing by Wes Borland and scratching by DJ Lethal. Three Dollar Bill, Y'all$ was produced by Ross Robinson, who was introduced to the band through Korn bassist Reginald 'Fieldy' Arvizu, who persuaded Robinson to listen to Limp Bizkit's demo. Robinson was impressed by the band's motivation and sound, and agreed to work with them. The album showcased an intentionally abrasive, angry sound which the band felt would attract a fanbase.",
+        "artwork": ["three-dollar.jpg"],
+        "tracklist": "1. Intro<br>2. Pollution<br>3. Counterfeit<br>4. Stuck<br>5. Nobody Loves Me<br>6. Sour<br>7. Stalemate<br>8. Clunk<br>9. Faith<br>10. Stink Finger<br>11. Indigo Flow<br>12. Leech (demo version)<br>13. Everything",
+        "newTracklist": ["1. Intro", "2. Pollution", "3. Counterfeit", "4. Stuck", "5. Nobody Loves Me", "6. Sour", "7. Stalemate", "8. Clunk", "9. Faith", "10. Stink Finger", "11. Indigo Flow", "12. Leech (demo version)", "13. Everything"],
+        "spotLink": "https://open.spotify.com/album/3I34EprFC0rlAO4pKNeX1t?si=ytagM2CNThaBuuQ_Trn7Tg"
+    },{
+        "bandName": "Limp Bizkit",
+        "shortName": "significant_other",
+        "albumName" : "Significant Other",
+        "released": "June 22, 1999",
+        "summary": "Significant Other is the second studio album by American rap rock band Limp Bizkit, released on June 22, 1999 by Flip and Interscope Records. It saw the band expand their sound from that of their 1997 debut Three Dollar Bill, Y'all to incorporate further metal and hip hop influences, but with a more melodic sound. Significant Other received high commercial sales, peaking at number one on the US Billboard 200. Critical reception was favorable, with many responding well to its unique sound and the band's performance, which was considered to be an improvement over the band's debut. The album has sold at least 16 million copies worldwide.",
+        "artwork": ["significant-other.jpg"],
+        "tracklist": "1. Intro<br>2. Just Like This<br>3. Nookie<br>4. Break Stuff<br>5. Re-Arranged<br>6. I'm Broke<br>7. Nobody Like You<br>8. Don't Go Off Wandering<br>9. 9 Teen 90 Nine<br>10. N 2 Gether Now<br>11. Trust?<br>12. No Sex<br>13. Show Me What You Got<br>14. A Lesson Learned<br>15. Outro",
+        "newTracklist": ["1. Intro", "2. Just Like This", "3. Nookie", "4. Break Stuff", "5. Re-Arranged", "6. I'm Broke", "7. Nobody Like You", "8. Don't Go Off Wandering", "9. 9 Teen 90 Nine", "10. N 2 Gether Now", "11. Trust?", "12. No Sex", "13. Show Me What You Got", "14. A Lesson Learned", "15. Outro"],
+        "spotLink": "https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP?si=3mPNzb6oSa6bTPgzJKHXXg"
+    },{
+        "bandName": "Limp Bizkit",
+        "shortName": "chocolate_starfish",
+        "albumName" : "Chocolate Starfish and the Hot Dog Flavored Water",
+        "released": "October 17, 2000",
+        "summary": "Chocolate Starfish and the Hot Dog Flavored Water (stylised as Chocolate St★rfish and the Hot Dog Flavored Water) is the third studio album by American band Limp Bizkit, released on October 17, 2000, by Flip and Interscope Records.",
+        "artwork" : ["chocolate-starfish.jpg"],
+        "tracklist": "1. Intro<br>2. Hot Dog<br>3. My Generation<br>4. Full Nelson<br>5. My Way<br>6. Rollin' (Air Raid Vehicle)<br>7. Livin' It Up<br>8. The One<br>9. Getcha Groove On (featuring Xzibit)<br>10. Take a Look Around<br>11. It'll Be OK<br>12. Boiler<br>13. Hold On (featuring Scott Weiland)<br>14. Rollin' (Urban Assault Vehicle) (featuring DMX and Method Man & Redman)<br>15. Outro",
+        "newTracklist": ["1. Intro", "2. Hot Dog", "3. My Generation", "4. Full Nelson", "5. My Way", "6. Rollin' (Air Raid Vehicle)", "7. Livin' It Up", "8. The One", "9. Getcha Groove On (featuring Xzibit)", "10. Take a Look Around", "11. It'll Be OK", "12. Boiler", "13. Hold On (featuring Scott Weiland)", "14. Rollin' (Urban Assault Vehicle) (featuring DMX and Method Man & Redman)", "15. Outro"],
+        "spotLink": "https://open.spotify.com/album/5EpMjweRD573ASl7uNiHym"
+    },{
+        "bandName": "Limp Bizkit",
+        "shortName": "results_may_vary",
+        "albumName" : "Results May Vary",
+        "released": "September 23, 2003",
+        "summary": "Results May Vary is the fourth studio album by American rap rock band Limp Bizkit, released on September 23, 2003, through Flip and Interscope Records. It was the band's only release under the sole-leadership of vocalist Fred Durst after the temporary departure of guitarist Wes Borland, who left in 2001. Snot guitarist Mike Smith was initially brought in to replace Borland, although the band's falling-out with Smith later led to his departure, with much of the material recorded with him being discarded from the final release. Durst and a number of guests ended up handling the majority of the album's guitar work. Upon its release, Results May Vary peaked at number 3 on the US Billboard 200, selling at least 325,000 copies in its first week of sales. While the album still eventually went platinum, both the debut and lifetime sales were still well below prior albums Significant Other (1999) and Chocolate Starfish and the Hot Dog Flavored Water (2000). Results May Vary sold at least 1.3 million copies in the United States, and received mainly negative critical reception as well. Results May Vary was Limp Bizkit's last studio album released before they went on hiatus for three years, starting from 2006 to 2009.",
+        "artwork" : ["results-may-vary.jpg"],
+        "tracklist": "1. Re-Entry<br>2. Eat You Alive<br>3. Gimme the Mic<br>4. Underneath the Gun<br>5. Down Another Day<br>6. Almost Over<br>7. Build a Bridge (featuring Brian 'Head' Welch)<br>8. Red Light-Green Light (featuring Snoop Dogg)<br>9. The Only One<br>10. Let Me Down<br>11. Lonely World<br>12. Phenomenon<br>13. Creamer (Radio Is Dead)<br>14. Head for the Barricade<br>15. Behind Blue Eyes<br>16. Drown",
+        "newTracklist": ["1. Re-Entry", "2. Eat You Alive", "3. Gimme the Mic", "4. Underneath the Gun", "5. Down Another Day", "6. Almost Over", "7. Build a Bridge (featuring Brian 'Head' Welch)", "8. Red Light-Green Light (featuring Snoop Dogg)", "9. The Only One", "10. Let Me Down", "11. Lonely World", "12. Phenomenon", "13. Creamer (Radio Is Dead)", "14. Head for the Barricade", "15. Behind Blue Eyes", "16. Drown"],
+        "spotLink": "https://open.spotify.com/album/3oUoQ0UH7Rv06x1kpSjS36?si=tx7xboTPSSCnTKPfRWXxHA"
+    },{
+        "bandName": "Limp Bizkit",
+        "shortName": "gold_cobra",
+        "albumName" : "Gold Cobra",
+        "released": "June 28, 2011",
+        "summary": "Gold Cobra is the fifth and most recent studio album by American rap rock band Limp Bizkit. Released in 2011 by Flip and Interscope Records, it is the band's first studio album since 2003's Results May Vary and its first with the full original lineup since 2000's Chocolate Starfish and the Hot Dog Flavored Water, as well as their first since their 2009 reunion. Gold Cobra features an eclectic and diverse sound, but is also similar in style to the band's earlier albums. The album, which featured the single 'Shotgun' and received mixed reviews, sold 27,000 copies during its first week in the United States and peaked at No. 16 on the Billboard 200.",
+        "artwork" : ["gold-cobra.jpg"],
+        "tracklist": "1. Introbra<br>2. Bring It Back<br>3. Gold Cobra<br>4. Shark Attack<br>5. Get a Life<br>6. Shotgun<br>7. Douche Bag<br>8. Walking Away<br>9. Loser<br>10. Autotunage<br>11. 90.2.10<br>12. Why Try<br>13. Killer In You<br>14. Back Porch<br>15. My Own Cobain<br>16. Angels",
+        "newTracklist": ["1. Introbra", "2. Bring It Back", "3. Gold Cobra", "4. Shark Attack", "5. Get a Life", "6. Shotgun", "7. Douche Bag", "8. Walking Away", "9. Loser", "10. Autotunage", "11. 90.2.10", "12. Why Try", "13. Killer In You", "14. Back Porch", "15. My Own Cobain", "16. Angels"],
+        "spotLink": "https://open.spotify.com/album/5SWyjakBNg9n0JpnHaQQSI?si=MuWu2sShSL6busT0mYfbUQ"
+    }]
+    }
+    

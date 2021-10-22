@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+}
+.text-white{
+    color: white;
+}
+.text-center{
+    text-align: center;
+}
+.bg-dark-gray{
+    background-color: #222222;
+}
