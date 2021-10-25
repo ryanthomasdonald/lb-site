@@ -24,7 +24,7 @@ router.post("/api", (req, res) => {
     let {name, title, message} = req.body;
     console.log(req.body)
     // push (unshift) retrieved data to feedbackData object
-    feedbackData.unshift(req.body);                            // this is JS object
+    feedbackData.unshift(req.body);                            // this is a JS object
     // save to feedback.json file
     fs.writeFile("data/feedback.json", JSON.stringify(feedbackData), "utf8", (err) => {
         if(err){

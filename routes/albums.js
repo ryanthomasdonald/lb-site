@@ -1,16 +1,28 @@
 const express = require("express");
 const router = express.Router();
-const dataFile = require("../data/data.json");
-let albums = dataFile.albums;
+const dataFile = require("../data/album-data.json");
+let albumList = dataFile.albums;
 
 router.get("/albums", (req, res) => {
-    let albumCovers = [];
-    albums.forEach(albumObj => {
-        albumCovers = albumCovers.concat(albumObj.artwork)
-    })
     res.render("albums", {
-        artwork: albumCovers,
-        albums: albums
+        albums: albumList,
+        pageTitle: "Albums"
+    })
+})
+
+router.get("/albums/:albumid", (req, res) => {
+    let singleAlbum = req.params.albumid;
+    let currentAlbum = [];
+    
+    albumList.forEach(albumObj => {
+        if(albumObj.shortName === singleAlbum){
+            currentAlbum.push(albumObj);
+        };
+    });
+
+    res.render("albums", {
+        albums: currentAlbum,
+        pageTitle: `${currentAlbum[0].albumName}`
     })
 })
 

@@ -18,7 +18,7 @@ form.addEventListener("submit", async (event) => {
     updateFeedback(messages);
 });
 
-// grap api data and display all messages when page loads
+// grab api data and display all messages when page loads
 const displayMessages = async () => {
     let result = await fetch("/api");
     let messages = await result.json();
